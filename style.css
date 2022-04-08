@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://thumbs.gfycat.com/OffensiveSpitefulFruitbat-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: 225px -104px;
+}
+
+
+.btn {
+    font-size: large;
+    width: 70px;
+    background-color:rgb(159, 180, 255) ;
+    color: black;
+}
+
+p{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.aqa{
+    color: rgb(255, 211, 110);
+}
+
+span{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: #99FFCD;
+}
+
